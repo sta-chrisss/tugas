@@ -1,0 +1,36 @@
+body {
+    background-color: #143569;
+    margin: 0;
+    
+}
+
+
+
+h1 {
+  text-align: center;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+h2 {
+  text-align: center;
+    font-family: sans-serif;
+}
+
+img {
+	max-width: 100%;
+	margin: 10px auto;
+}
+
+p {
+  text-align: center;
+    font-family: monospace;
+}
+
+section {
+  width: 90%;
+    padding: 30px;
+    margin: 15px auto;
+    box-sizing: border-box;
+    background-color: white;
+}
